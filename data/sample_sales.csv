@@ -1,0 +1,121 @@
+date,region,category,product,quantity,revenue,customer,status
+2026-07-01,South America,Home,Product D,5,709.33,C8502,Completed
+2026-07-01,North America,Fashion,Product B,5,54.48,C5497,Shipped
+2026-07-01,North America,Others,Product A,3,307.58,C4074,Completed
+2026-07-01,Asia,Fashion,Product E,3,478.87,C6242,Processing
+2026-07-02,Asia,Others,Product E,4,578.85,C4068,Shipped
+2026-07-02,Europe,Electronics,Product E,1,570.66,C2032,Completed
+2026-07-02,Europe,Electronics,Product A,3,446.28,C8275,Shipped
+2026-07-02,South America,Home,Product C,3,472.34,C4414,Completed
+2026-07-03,South America,Electronics,Product A,1,638.23,C8935,Completed
+2026-07-03,Asia,Fashion,Product C,1,755.54,C6972,Completed
+2026-07-03,Asia,Fashion,Product E,5,483.32,C9456,Shipped
+2026-07-03,Asia,Home,Product A,4,127.77,C3200,Processing
+2026-07-04,Asia,Home,Product D,5,357.07,C6788,Processing
+2026-07-04,North America,Electronics,Product D,2,324.58,C3030,Completed
+2026-07-04,Europe,Others,Product C,2,881.94,C4529,Processing
+2026-07-04,Europe,Home,Product C,4,624.98,C9609,Completed
+2026-07-05,Asia,Fashion,Product B,2,392.12,C8434,Completed
+2026-07-05,Europe,Others,Product E,2,621.0,C1128,Completed
+2026-07-05,Europe,Others,Product A,4,161.87,C8609,Shipped
+2026-07-05,Europe,Others,Product D,5,534.26,C3527,Completed
+2026-07-06,Asia,Electronics,Product D,5,519.48,C1442,Completed
+2026-07-06,Europe,Others,Product E,4,534.24,C1545,Processing
+2026-07-06,South America,Fashion,Product B,2,82.35,C9723,Shipped
+2026-07-06,Asia,Fashion,Product D,3,323.84,C5020,Shipped
+2026-07-07,North America,Electronics,Product D,2,75.8,C9163,Completed
+2026-07-07,Europe,Others,Product A,4,413.99,C1711,Processing
+2026-07-07,Europe,Others,Product D,2,551.75,C3516,Shipped
+2026-07-07,South America,Fashion,Product E,3,700.46,C8101,Shipped
+2026-07-08,South America,Electronics,Product C,5,54.4,C6184,Shipped
+2026-07-08,Asia,Others,Product D,1,406.07,C8625,Shipped
+2026-07-08,South America,Electronics,Product E,4,724.07,C9568,Processing
+2026-07-08,North America,Home,Product B,2,218.74,C9188,Processing
+2026-07-09,North America,Electronics,Product B,2,855.91,C8798,Processing
+2026-07-09,South America,Fashion,Product A,2,859.23,C2970,Processing
+2026-07-09,North America,Others,Product A,3,492.99,C9089,Shipped
+2026-07-09,South America,Home,Product C,3,412.65,C9510,Shipped
+2026-07-10,Europe,Fashion,Product D,5,108.41,C3232,Processing
+2026-07-10,North America,Home,Product C,5,263.35,C8077,Shipped
+2026-07-10,Asia,Home,Product B,4,585.18,C9288,Shipped
+2026-07-10,Europe,Fashion,Product D,2,222.47,C2520,Completed
+2026-07-11,Europe,Electronics,Product B,5,764.14,C6338,Completed
+2026-07-11,Asia,Home,Product E,3,555.48,C5104,Processing
+2026-07-11,Europe,Fashion,Product A,5,445.96,C3109,Processing
+2026-07-11,Europe,Home,Product A,1,102.59,C7097,Processing
+2026-07-12,North America,Others,Product D,5,670.49,C8568,Completed
+2026-07-12,South America,Others,Product D,5,796.04,C9003,Processing
+2026-07-12,South America,Others,Product B,1,75.75,C4910,Completed
+2026-07-12,Europe,Fashion,Product D,2,209.38,C9745,Processing
+2026-07-13,North America,Electronics,Product B,3,191.11,C2033,Shipped
+2026-07-13,North America,Electronics,Product C,2,847.59,C8717,Processing
+2026-07-13,Asia,Others,Product C,4,569.14,C3132,Completed
+2026-07-13,South America,Home,Product B,1,731.41,C5212,Shipped
+2026-07-14,South America,Others,Product A,1,337.86,C8576,Completed
+2026-07-14,North America,Electronics,Product B,4,727.84,C3723,Completed
+2026-07-14,Asia,Others,Product C,4,159.77,C8455,Shipped
+2026-07-14,South America,Others,Product C,1,537.6,C4474,Processing
+2026-07-15,Europe,Home,Product D,1,612.01,C1460,Processing
+2026-07-15,South America,Others,Product D,5,328.09,C1752,Shipped
+2026-07-15,Europe,Others,Product C,5,187.29,C4122,Completed
+2026-07-15,Europe,Home,Product D,2,529.15,C6696,Shipped
+2026-07-16,South America,Fashion,Product A,2,438.03,C9934,Processing
+2026-07-16,Asia,Electronics,Product C,2,163.66,C2727,Processing
+2026-07-16,Asia,Others,Product C,2,365.97,C6965,Processing
+2026-07-16,Europe,Electronics,Product D,2,330.37,C8681,Processing
+2026-07-17,Asia,Electronics,Product B,4,542.2,C8885,Completed
+2026-07-17,North America,Electronics,Product A,4,161.42,C5516,Completed
+2026-07-17,South America,Electronics,Product D,1,820.43,C7583,Completed
+2026-07-17,South America,Fashion,Product D,5,576.93,C8694,Completed
+2026-07-18,North America,Fashion,Product A,5,369.07,C3778,Shipped
+2026-07-18,Europe,Electronics,Product D,4,710.0,C5803,Shipped
+2026-07-18,South America,Home,Product B,2,104.58,C3078,Processing
+2026-07-18,South America,Others,Product E,1,276.3,C7745,Processing
+2026-07-19,North America,Home,Product D,5,156.88,C8996,Completed
+2026-07-19,North America,Others,Product C,4,662.83,C4647,Shipped
+2026-07-19,Asia,Others,Product D,5,710.55,C6428,Processing
+2026-07-19,Europe,Home,Product A,1,695.57,C6318,Shipped
+2026-07-20,Europe,Home,Product B,3,371.45,C4062,Processing
+2026-07-20,Europe,Electronics,Product B,5,511.01,C1925,Processing
+2026-07-20,South America,Home,Product A,4,374.24,C1287,Shipped
+2026-07-20,Europe,Others,Product B,2,167.14,C1266,Shipped
+2026-07-21,South America,Others,Product A,1,655.77,C9208,Shipped
+2026-07-21,Europe,Others,Product B,1,128.04,C7107,Shipped
+2026-07-21,North America,Electronics,Product A,1,538.71,C9554,Processing
+2026-07-21,South America,Others,Product E,1,827.26,C7761,Completed
+2026-07-22,South America,Others,Product A,1,452.39,C2382,Completed
+2026-07-22,North America,Fashion,Product B,2,661.79,C3229,Processing
+2026-07-22,Asia,Electronics,Product E,5,805.39,C3274,Shipped
+2026-07-22,Asia,Electronics,Product A,2,243.1,C5632,Completed
+2026-07-23,Europe,Electronics,Product E,3,154.66,C2511,Completed
+2026-07-23,Asia,Others,Product D,3,206.15,C2482,Shipped
+2026-07-23,South America,Fashion,Product B,3,290.51,C8415,Processing
+2026-07-23,Asia,Home,Product C,3,386.26,C9503,Shipped
+2026-07-24,North America,Others,Product B,1,165.86,C4054,Completed
+2026-07-24,Asia,Others,Product E,5,246.07,C7102,Shipped
+2026-07-24,South America,Electronics,Product D,3,472.78,C5908,Shipped
+2026-07-24,South America,Electronics,Product D,2,559.98,C9857,Completed
+2026-07-25,Asia,Electronics,Product E,3,798.73,C1899,Shipped
+2026-07-25,South America,Others,Product E,4,651.56,C3658,Shipped
+2026-07-25,Asia,Home,Product E,4,306.4,C3950,Completed
+2026-07-25,North America,Others,Product D,1,831.54,C8533,Processing
+2026-07-26,South America,Fashion,Product E,5,181.86,C3645,Processing
+2026-07-26,Europe,Electronics,Product A,5,539.07,C4948,Shipped
+2026-07-26,North America,Fashion,Product C,5,647.42,C8206,Processing
+2026-07-26,South America,Others,Product B,3,402.83,C1020,Shipped
+2026-07-27,North America,Others,Product D,2,619.21,C4752,Completed
+2026-07-27,North America,Home,Product C,4,105.52,C7625,Shipped
+2026-07-27,South America,Electronics,Product D,5,448.37,C5276,Processing
+2026-07-27,North America,Home,Product C,3,671.22,C9630,Completed
+2026-07-28,South America,Home,Product C,3,842.3,C6668,Completed
+2026-07-28,South America,Fashion,Product A,4,518.13,C7850,Completed
+2026-07-28,South America,Home,Product B,2,216.22,C3560,Shipped
+2026-07-28,Asia,Electronics,Product D,3,687.74,C9398,Shipped
+2026-07-29,North America,Home,Product C,5,445.94,C8429,Processing
+2026-07-29,North America,Others,Product B,4,595.55,C4753,Processing
+2026-07-29,North America,Home,Product B,2,682.65,C9304,Processing
+2026-07-29,Europe,Fashion,Product A,4,478.11,C1556,Processing
+2026-07-30,North America,Others,Product E,2,768.02,C1799,Shipped
+2026-07-30,South America,Fashion,Product D,4,79.23,C7348,Processing
+2026-07-30,South America,Others,Product B,3,524.15,C8486,Processing
+2026-07-30,South America,Home,Product B,3,407.53,C2005,Completed
